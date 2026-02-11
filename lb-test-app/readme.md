@@ -47,7 +47,10 @@ lb-test-app/
 ├── requirements.txt               # Python dependencies
 ├── Dockerfile                     # Container configuration
 
+```
 Other guide Check repo - [Loadbalancer-Test](https://github.com/ChisomJude/Devops-Projects-Training)
+
+```
 ├── 00-local-testing.md            # Test locally before deploying
 ├── 01-push-to-dockerhub.md        # Push image to Docker Hub
 ├── 02-create-security-group.md    # AWS Security Group setup
